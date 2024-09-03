@@ -4,15 +4,18 @@
 
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 15 L01 SCELE/Discord related
-ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related: Monday, 26th August 2024
 ZCZC W00 10 L11 Assignment #01
 ZCZC W00 10 L12 Assignment #02
 ZCZC W00 10 L13 Assignment #03
 ZCZC W00 5 L14 Assignment #04
 ZCZC W00 60 L15 Assignment #05
 ZCZC W00 5 L16 Assignment #06
-ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related: Wednesday, 28th August 2024
 ZCZC W00 20 L05 Quiz related
 ZCZC W00 30 L81 Listening to Music
 ZCZC W00 30 L83 Pets: feeding, playing, etc
-ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related: Monday, 2nd September 2024
+ZCZC W01 40 L87 Lunch
+ZCZC W01 40 L88 Workout: Walking with friend! (see her github -> bddaax)
