@@ -19,3 +19,4 @@ ZCZC W00 30 L83 Pets: feeding, playing, etc
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related: Monday, 2nd September 2024
 ZCZC W01 40 L87 Lunch
 ZCZC W01 40 L88 Workout: Walking with friend! (see her github -> bddaax)
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related: Wednesday, 4th September 2024
