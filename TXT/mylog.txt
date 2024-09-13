@@ -30,3 +30,5 @@ ZCZC W01 60 L07 Demo related
 ZCZC W01 30 L83 Pets: feeding, playing, etc
 ZCZC W01 5 L41 TXT/mylog.txt related.
 
+ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related: Monday, 9th September 2024
+ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related: Wednesday, 11th September 2024
