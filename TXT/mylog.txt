@@ -58,3 +58,15 @@ ZCZC W03 60 L80 Waching: Youtube (Chibi Maruko Chan)
 ZCZC W03 720 L81 Listening: Music
 ZCZC W03 90 L08 OS Chat related (WA, LINE) with Friends
 ZCZC W03 55 L83 Pets: feeding, playing, etc
+
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related: Monday, 30th September 2024
+ZCZC W04 30 L11 Assignment #01
+ZCZC W04 15 L12 Assignment #02
+ZCZC W04 10 L13 Assignment #03
+ZCZC W04 90 L14 Assignment #04
+ZCZC W04 60 L15 Assignment #05
+ZCZC W04 60 L08 OS Chat related (WA, LINE) with Friend
+ZCZC W04 15 L32 YouTube: watching OS related topics
+ZCZC W04 60 L80 Waching: YouTube
+ZCZC W04 180 L81 Listening: Music
+ZCZC W04 60 L83 Pets: feeding, playing, etc
