@@ -70,3 +70,20 @@ ZCZC W04 15 L32 YouTube: watching OS related topics
 ZCZC W04 60 L80 Waching: YouTube
 ZCZC W04 180 L81 Listening: Music
 ZCZC W04 60 L83 Pets: feeding, playing, etc
+
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related: Wednesday, 2nd October 2024
+ZCZC W05 30 L11 Assignment #01
+ZCZC W05 15 L12 Assignment #02
+ZCZC W05 120 L13 Assignment #03
+ZCZC W05 60 L14 Assignment #04
+ZCZC W05 150 L15 Assignment #05
+ZCZC W05 60 L16 Assignment #06
+ZCZC W05 30 L05 Quiz related including studying
+ZCZC W05 120 L08 OS Chat related (LINE) with Friend
+ZCZC W05 15 L25 C-language including Make
+ZCZC W05 30 L43 TXT/myrank.txt related, including peer review
+ZCZC W05 20 L62 Backup Virtual Debian Guest
+ZCZC W05 180 L70 Studying for other courses
+ZCZC W05 60 L80 Waching: YouTube
+ZCZC W05 300 L81 Listening: Music
+ZCZC W05 75 L83 Pets: feeding, playing, etc
