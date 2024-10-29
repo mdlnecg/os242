@@ -26,3 +26,7 @@ permalink: LINKS/
 * [**About .swp files**](https://www.networkworld.com/article/939724/what-are-unix-swap-swp-files.html): Because we have to be careful with JOROK points :D!
 * [**Cache Memory in Computer Organization**](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/): All about cache memory in computer organization.
 * [**OS Memory Management**](https://www.guru99.com/os-memory-management.html): Memory Management in OS: Contiguous, Swapping, Fragmentation
+
+## WEEK06
+* [**fork() in C**](https://www.geeksforgeeks.org/fork-system-call/): What is fork()?
+* [**Single-threaded and Multi-threaded Processes**](https://www.tutorialspoint.com/single-threaded-and-multi-threaded-processes): What is the difference?
