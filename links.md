@@ -30,3 +30,8 @@ permalink: LINKS/
 ## WEEK06
 * [**fork() in C**](https://www.geeksforgeeks.org/fork-system-call/): What is fork()?
 * [**Single-threaded and Multi-threaded Processes**](https://www.tutorialspoint.com/single-threaded-and-multi-threaded-processes): What is the difference?
+
+## WEEK07
+* [**Synchronization**](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://my.eng.utah.edu/~cs5460/slides/Lecture07.pdf): How do you control the behavior of “cooperating” processes that share resources?
+* [**Linux Permissions**](https://phoenixnap.com/kb/linux-file-permissions): Learn how to view and change file permissions in Linux.
+* [**Critical Section in Synchronization**](https://www.geeksforgeeks.org/g-fact-70/): When more than one processes try to access the same code segment that segment.
