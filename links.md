@@ -38,3 +38,7 @@ permalink: LINKS/
 
 ## WEEK08
 * [**Chapter 5 of Linux From Scratch**](https://youtu.be/vMdPHpPiy4Q?si=zvpaNmrP__u9ynR7): Literally my savior for this week's assignment ;D!
+
+## WEEK08
+* [**Chapter 6 of Linux From Scratch**](https://youtu.be/rPVqLIqt_8A?si=ZXOwBbZsPhAg3BK4): Still my savior.
+* [**Chapter 7 of Linux From Scratch**](https://youtu.be/m6USND1vPhM?si=bH_kPaOc5p1zNObJ): Long live, Kernotex!
