@@ -42,3 +42,6 @@ permalink: LINKS/
 ## WEEK09
 * [**Chapter 6 of Linux From Scratch**](https://youtu.be/rPVqLIqt_8A?si=ZXOwBbZsPhAg3BK4): Still my savior.
 * [**Chapter 7 of Linux From Scratch**](https://youtu.be/m6USND1vPhM?si=bH_kPaOc5p1zNObJ): Long live, Kernotex!
+
+## WEEK10
+* [**Chapter 8 of Linux From Scratch**](https://youtu.be/ReIeiTqYTGc?si=b2fX_I9cBRPWEVba): Finally!

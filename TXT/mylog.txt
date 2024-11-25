@@ -142,3 +142,16 @@ ZCZC W09 180 L70 Studying for other courses
 ZCZC W09 60 L80 Waching: YouTube
 ZCZC W09 360 L81 Listening: Music
 ZCZC W09 60 L83 Pets: feeding, playing, etc
+
+ZCZC W10 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 10 L11 Assignment #01
+ZCZC W10 15 L12 Assignment #02
+ZCZC W10 1440 L13 Assignment #03
+ZCZC W10 30 L14 Assignment #04
+ZCZC W10 30 L05 Quiz related including studying
+ZCZC W10 360 L08 OS Chat related (WhatsApp, Discord) with Friend
+ZCZC W10 30 L43 TXT/myrank.txt related, including peer review
+ZCZC W10 180 L70 Studying for other courses
+ZCZC W10 60 L80 Waching: YouTube
+ZCZC W10 360 L81 Listening: Music
+ZCZC W10 90 L83 Pets: feeding, playing, etc
